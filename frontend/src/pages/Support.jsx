@@ -6,16 +6,16 @@ function Support() {
                     <h1 className="mb-3 text-sm text-[#08e6f5]">Support Center</h1>
                     <h2 className="mb-4 text-4xl font-bold">We're here to help</h2>
                     <h3 className="text-gray-300">
-                        Get the support you need for axoryn. Find answers to common questions
+                        Get the support you need for playTube. Find answers to common questions
                         or contact our support team for personalized assistance.
                     </h3>
                 </div>
                 <div className="mb-8">
                     <p className="mb-4 text-gray-300">
-                        Welcome to the axoryn Support Center. Whether you're experiencing technical
+                        Welcome to the playTube Support Center. Whether you're experiencing technical
                         difficulties, have questions about features, or need help getting started,
                         our comprehensive support resources are designed to help you get the most
-                        out of your axoryn experience. Browse through our frequently asked
+                        out of your playTube experience. Browse through our frequently asked
                         questions, troubleshooting guides, and contact information below.
                     </p>
                     <p className="mb-4 text-gray-300">
@@ -54,7 +54,7 @@ function Support() {
                         Technical Issues & Troubleshooting
                     </h3>
                     <p className="mb-4 text-gray-300">
-                        If you're experiencing technical difficulties with axoryn, try these
+                        If you're experiencing technical difficulties with playTube, try these
                         common solutions first: clear your browser cache and cookies, disable
                         browser extensions temporarily, try using an incognito/private browsing
                         window, or switch to a different browser. Many issues are resolved by
@@ -81,7 +81,7 @@ function Support() {
                     </h3>
                     <p className="mb-4 text-gray-300">
                         For questions about your account, subscription, or billing, our support
-                        team can help you manage your axoryn experience. Whether you need to
+                        team can help you manage your playTube experience. Whether you need to
                         update payment information, cancel a subscription, or understand billing
                         charges, we're here to assist you with all account-related inquiries.
                     </p>
@@ -102,10 +102,10 @@ function Support() {
                         Feature Requests & Feedback
                     </h3>
                     <p className="mb-4 text-gray-300">
-                        We value your feedback and suggestions for improving axoryn. If you
+                        We value your feedback and suggestions for improving playTube. If you
                         have ideas for new features, improvements to existing functionality, or
                         general feedback about your experience, we'd love to hear from you.
-                        Your input helps us make axoryn better for everyone.
+                        Your input helps us make playTube better for everyone.
                     </p>
                 </div>
                 <div className="mb-8">
@@ -127,11 +127,11 @@ function Support() {
                     <p className="mb-4 text-gray-300">
                         If you can't find the answer to your question in our FAQ or troubleshooting
                         guides, don't hesitate to reach out to our support team. We're available
-                        to help you with any issues or questions you may have about axoryn.
+                        to help you with any issues or questions you may have about playTube.
                     </p>
                     <ol className="list-decimal pl-4 text-gray-300">
                         <li>
-                            <strong>Email Support:</strong> Send us a detailed message at support@axoryn.com
+                            <strong>Email Support:</strong> Send us a detailed message at support@playTube.com
                             and we'll respond within 24 hours.
                         </li>
                         <li>
